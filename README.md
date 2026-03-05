@@ -109,3 +109,7 @@ Claw will validate the channel and update `config.json`.
 ## License
 
 MIT
+
+## Repository
+
+https://github.com/Telhassani/skill-yt-channel-tracker
