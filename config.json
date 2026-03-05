@@ -1,0 +1,16 @@
+{
+  "api": {
+    "provider": "scrapecreators",
+    "key": "TbZLR6ngfmMQmjN80wECwx4F6Ne2",
+    "base_url": "https://api.scrapecreators.com/v1"
+  },
+  "channels": [
+    {"name": "Octogone", "channelId": "UCtJuE2ar0ptD5b12ueCMq1w", "limit": 3},
+    {"name": "Idriss Aberkane", "channelId": "UCsBPtU4hJkWNQ4kA-IsxgKw", "limit": 3},
+    {"name": "Peter Diamandis", "channelId": "UCvxm0qTrGN_1LMYgUaftWyQ", "limit": 3},
+    {"name": "Diary of a CEO", "channelId": "UCGq-a57w-aPwyi3pW7XLiHw", "limit": 3}
+  ],
+  "defaults": {
+    "videos_per_channel": 3
+  }
+}
